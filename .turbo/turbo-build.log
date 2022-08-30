@@ -1,0 +1,65 @@
+[32m@tolgee/svelte-testapp:build: [0mcache hit, replaying output [2me287659a02732157[0m
+[32m@tolgee/svelte-testapp:build: [0m
+[32m@tolgee/svelte-testapp:build: [0m> @tolgee/svelte-testapp@4.8.2 build
+[32m@tolgee/svelte-testapp:build: [0m> vite build
+[32m@tolgee/svelte-testapp:build: [0m
+[32m@tolgee/svelte-testapp:build: [0mvite v3.0.9 building for production...
+[32m@tolgee/svelte-testapp:build: [0mtransforming...
+[32m@tolgee/svelte-testapp:build: [0m✓ 48 modules transformed.
+[32m@tolgee/svelte-testapp:build: [0mrendering chunks...
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/vite-manifest.json                                                             6.18 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/components/pages/_layout.svelte-829a88c8.js                     4.64 KiB / gzip: 1.88 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/components/error.svelte-194f8941.js                             1.62 KiB / gzip: 0.74 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/components/pages/_lang_/_page.svelte-6c8e6820.js                0.38 KiB / gzip: 0.26 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/components/pages/_page.svelte-9dbb01a1.js                       5.84 KiB / gzip: 2.46 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/start-c7ea3c34.js                                               21.57 KiB / gzip: 7.99 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/components/pages/translation-methods/_page.svelte-66d88dea.js   6.28 KiB / gzip: 2.28 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/chunks/singletons-c9d30b51.js                                   1.14 KiB / gzip: 0.67 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/chunks/index-0163d6d8.js                                        8.10 KiB / gzip: 3.26 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/chunks/index-8e47bf4d.js                                        0.79 KiB / gzip: 0.49 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/chunks/preload-helper-aa6bc0ce.js                               0.70 KiB / gzip: 0.43 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/chunks/stores-51ab2d6b.js                                       0.61 KiB / gzip: 0.35 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/chunks/Navbar-b0c85292.js                                       4.19 KiB / gzip: 1.88 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/chunks/0-10c5d053.js                                            0.19 KiB / gzip: 0.15 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/chunks/1-24ce6dac.js                                            0.20 KiB / gzip: 0.15 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/chunks/2-be2ad89d.js                                            0.24 KiB / gzip: 0.17 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/chunks/3-61513864.js                                            0.21 KiB / gzip: 0.16 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/chunks/4-f2bd332a.js                                            0.26 KiB / gzip: 0.19 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/chunks/de-1d90c250.js                                           0.53 KiB / gzip: 0.32 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/chunks/cs-99c7af64.js                                           0.52 KiB / gzip: 0.32 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/chunks/fr-cd4bfb05.js                                           0.55 KiB / gzip: 0.33 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/chunks/tolgee.esm-6f294d01.js                                   96.08 KiB / gzip: 25.42 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/client/_app/immutable/chunks/tolgee-ui.esm-38e0e4c9.js                                4191.19 KiB / gzip: 764.92 KiB
+[32m@tolgee/svelte-testapp:build: [0m
+[32m@tolgee/svelte-testapp:build: [0m(!) Some chunks are larger than 500 KiB after minification. Consider:
+[32m@tolgee/svelte-testapp:build: [0m- Using dynamic import() to code-split the application
+[32m@tolgee/svelte-testapp:build: [0m- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/guide/en/#outputmanualchunks
+[32m@tolgee/svelte-testapp:build: [0m- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+[32m@tolgee/svelte-testapp:build: [0mvite v3.0.9 building SSR bundle for production...
+[32m@tolgee/svelte-testapp:build: [0mtransforming...
+[32m@tolgee/svelte-testapp:build: [0m✓ 53 modules transformed.
+[32m@tolgee/svelte-testapp:build: [0mGenerated an empty chunk: "hooks"
+[32m@tolgee/svelte-testapp:build: [0mrendering chunks...
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/server/vite-manifest.json                                  2.87 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/server/index.js                                            59.95 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/server/entries/pages/_layout.svelte.js                     2.35 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/server/entries/fallbacks/error.svelte.js                   0.60 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/server/entries/pages/_page.svelte.js                       3.10 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/server/entries/pages/_lang_/_page.svelte.js                0.42 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/server/entries/pages/translation-methods/_page.svelte.js   2.46 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/server/chunks/index.js                                     3.69 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/server/chunks/index2.js                                    2.27 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/server/chunks/tolgee.esm.js                                188.17 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/server/chunks/stores.js                                    1.00 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/server/chunks/Navbar.js                                    5.33 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/server/chunks/hooks.js                                     0.00 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/server/chunks/de.js                                        0.62 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/server/chunks/cs.js                                        0.62 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/server/chunks/fr.js                                        0.64 KiB
+[32m@tolgee/svelte-testapp:build: [0m.svelte-kit/output/server/chunks/tolgee-ui.esm.js                             5310.40 KiB
+[32m@tolgee/svelte-testapp:build: [0m
+[32m@tolgee/svelte-testapp:build: [0mRun npm run preview to preview your production build locally.
+[32m@tolgee/svelte-testapp:build: [0m
+[32m@tolgee/svelte-testapp:build: [0m> Using @sveltejs/adapter-static
+[32m@tolgee/svelte-testapp:build: [0m  Wrote site to "build"
+[32m@tolgee/svelte-testapp:build: [0m  ✔ done
